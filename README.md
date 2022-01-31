@@ -1,1 +1,4 @@
-# email-spam-classification
+# Email Spam Classification
+A research by the Radicati Research Group showed that email spams cost businesses up to $20.5 billion annualy (technical expenses, lost of productivity, security breach, pishing). Also the specialized spam website www.spamlaws.com suggests that spam represents 45% of all the emails sent. This highlights the importance of making effective spam detection filtering models.
+
+In this mini-project I will use tensorflow/keras in order to build, train and evaluate a deep-neural network for classifiying emails as ham or spam. I will also use different Natural Language Processing tools such as lemmatization, cleaning, tokenizing, word_embedding in order to improve my model performance.
